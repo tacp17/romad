@@ -1,0 +1,20 @@
+<package>
+	<id>com.tacp17.shylabels13</id>
+	<name>shylabels13</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.4.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>hides app labels after specified time limit</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>rerelease</change>
+	</changelog>
+	<links></links>
+</package>
