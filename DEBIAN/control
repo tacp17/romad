@@ -1,0 +1,12 @@
+Architecture: iphoneos-arm
+Name: shylabels13
+Package: com.tacp17.shylabels13
+Version: 1.2
+Size: 500
+Website: https://tacp17.github.io/romad/
+Icon: /Users/burnranch/Desktop/icon@2x.png
+Maintainer: tacp17
+Depends: mobilesubstrate
+Conflicts: none
+Description: blah
+Section: Utilties

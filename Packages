@@ -12,17 +12,16 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.tacp17.shylabels13
+Version: 1.2
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: tacp17
+Depends: mobile substrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Filename: ./debs/com.tacp17.shylabels13.deb
+Size: 500
+MD5sum: 4fc0358e05603961745b76e1a4726e
+Description: Hides labels after a set time
+Name: shylabels13
+Author: tacp17
+Depiction: https://tacp17.github.io/romad/depictions/?p=com.tacp17.shylabels13
